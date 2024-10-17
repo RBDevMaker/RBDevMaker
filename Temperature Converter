@@ -1,0 +1,20 @@
+#Temperature Converter 
+#convert from Fahrenheit to Centigrade
+# C = (F - 32) * 5 / 9
+
+# get the input for the temperature in F
+fahrenheit = input("Temperature in F: ")
+print(fahrenheit, type(fahrenheit))
+fahrenheit = float(fahrenheit)
+print(fahrenheit, type(fahrenheit))
+
+# convert from F to C
+
+celsius = (fahrenheit - 32) * 5 / 9 
+# Parenthesis
+# exponents
+# Multiplication / Division (left to right)
+# Addition / Subtraction (left to right)
+
+# output the resulting temperature
+print(f'{fahrenheit}F is {celsius}C')
