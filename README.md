@@ -1,7 +1,8 @@
 <h1 align="center"> 👋🏽 Hi, I’m @RBDevMaker👋🏽</h1>
 
 - 👀 I’m interested in web pages, migration, translators/languages, medical.
-- 🌱 I’m currently experimenting with AWS, Python, HTML, CSS, Django and React.
+- I am AI proficient.  Model trainging with ethical guardrails.  Bedrock.
+- 🌱 I’m currently experimenting with AWS, Python, HTML, CSS, Django, React and Amplify.
 - 💞️ I’m looking to collaborate on medical forms and translator apps.
 
 
