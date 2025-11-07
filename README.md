@@ -17,7 +17,7 @@
 
 ### 🧰 Tech Toolbox  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,django,react,html,css,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,aws,react,html,css,github,vscode" alt="Tech Stack" />
 </p>
 
 ---
