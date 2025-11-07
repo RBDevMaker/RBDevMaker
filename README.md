@@ -10,7 +10,7 @@
 ### 👀 About Me  
 - 🌐 Passionate about **web development**, **language translation**, and **medical innovation**.  
 - 🧠 Skilled in **AI model training** with **ethical guardrails** (Bedrock + beyond).  
-- 🚀 Currently exploring **AWS**, **Python**, **Django**, **React**, **Amplify**, **HTML**, and **CSS**.  
+- 🚀 Currently exploring **AWS**, **Python**, **React**, **Amplify**, **HTML**, and **CSS**.  
 - 💞️ Open to collaborating on **medical form automation** and **translator apps**.
 
 ---
