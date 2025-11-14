@@ -10,7 +10,13 @@
 ### 👀 About Me  
 - 🌐 Passionate about **web development**, **language translation**, and **medical innovation**.  
 - 🧠 Skilled in **AI model training** with **ethical guardrails** (Bedrock + beyond).  
-- 🚀 Currently exploring **AWS**, **Python**, **React + Node**, **Amplify**, **HTML**, and **CSS**.  
+ **AWS**, **Python**, **React + Node**, **Amplify**, **HTML**, and **CSS**. Building serverless applications with **AWS Lambda**, **API Gateway**, **S3**, and **DynamoDB**.
+Implementing Infrastructure as Code with CloudFormation
+Designing microservices architectures and RESTful APIs
+Learning container orchestration with Docker and Kubernetes
+
+- 👨‍💻 All of my cloud projects are available at (https://github.com/RBDevMaker/Cloud-Projects.git)
+
 - 💞️ Open to collaborating on **medical form automation** and **translator apps**.
 
 ---
@@ -28,6 +34,9 @@
 - 🧬 Advocate for **human-centered design** in AI tools.  
 
 ---
+📫 How to reach me hushe78@gmail.com
+
+📄 Know about my experiences — rachellebriscoe.com
 
 <h2 align="center">🚧 Work in Progress 🚧</h2>
 
