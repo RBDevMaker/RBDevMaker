@@ -41,7 +41,7 @@ Work with Docker and Kubernetes for containerized deployments
 - 🧬 Advocate for **human-centered design** in AI tools.  
 
 ---
-### Connect
+### Connect with Me
 
 📫 How to reach me hushe78@gmail.com
 
