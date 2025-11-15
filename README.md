@@ -8,16 +8,23 @@
 ---
 
 ### 👀 About Me  
-- 🌐 Passionate about **web development**, **language translation**, and **medical innovation**.  
-- 🧠 Skilled in **AI model training** with **ethical guardrails** (Bedrock + beyond).  
- **AWS**, **Python**, **React + Node**, **Amplify**, **HTML**, and **CSS**. Building serverless applications with **AWS Lambda**, **API Gateway**, **S3**, and **DynamoDB**.
-Implementing Infrastructure as Code with CloudFormation
-Designing microservices architectures and RESTful APIs
-Learning container orchestration with Docker and Kubernetes
+- 🌐 **Passionate about** **web development**, **language translation**, and **medical innovation**.  
+- 🧠 **Skilled in** **AI model training** with **ethical guardrails** (Bedrock + beyond).  
 
-- 👨‍💻 All of my cloud projects are available at (https://github.com/RBDevMaker/Cloud-Projects.git)
+- ☁️ **Cloud and Services** I build scalable, secure, serverless applications using:: **AWS**, **Python**, **React + Node**, **Amplify**, **HTML**, and **CSS**. Building serverless applications with **AWS Lambda**, **API Gateway**, **Amazon S3**, and **DynamoDB** **AWS SAM (Serverless Application Model)** **CloudFormation** **Amazon CloudWatch** **AWS STS(Security Token Services)** **Amazon Transcribe** and many many more!!!!!  
 
-- 💞️ Open to collaborating on **medical form automation** and **translator apps**.
+
+What I do:
+Implement Infrastructure as Code using CloudFormation and SAM
+
+Design microservices architectures and RESTful APIs
+
+Build and deploy serverless, event-driven, cloud-native solutions
+
+Architect and optimize cloud systems across distributed environments
+
+Work with Docker and Kubernetes for containerized deployments
+
 
 ---
 
@@ -34,10 +41,16 @@ Learning container orchestration with Docker and Kubernetes
 - 🧬 Advocate for **human-centered design** in AI tools.  
 
 ---
+### Connect
+
 📫 How to reach me hushe78@gmail.com
 
 📄 Know about my experiences — rachellebriscoe.com
 
+- 👨‍💻 All of my cloud projects are available at (https://github.com/RBDevMaker/Cloud-Projects.git)
+
+- 💞️ Open to collaborating on **medical form automation** and **translator apps**.
+- 
 <h2 align="center">🚧 Work in Progress 🚧</h2>
 
 <p align="center">
