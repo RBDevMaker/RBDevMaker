@@ -50,7 +50,7 @@ Work with Docker and Kubernetes for containerized deployments
 - 👨‍💻 All of my cloud projects are available at (https://github.com/RBDevMaker/Cloud-Projects.git)
 
 - 💞️ Open to collaborating on **medical form automation** and **translator apps**.
-- 
+
 <h2 align="center">🚧 Work in Progress 🚧</h2>
 
 <p align="center">
