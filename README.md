@@ -14,7 +14,8 @@
 - ☁️ **Cloud and Services** I build scalable, secure, serverless applications using:: **AWS**, **Python**, **React + Node**, **Amplify**, **HTML**, and **CSS**. Building serverless applications with **AWS Lambda**, **API Gateway**, **Amazon S3**, **DynamoDB**, **AWS SAM (Serverless Application Model)**, **CloudFormation**, **Amazon CloudWatch**, **AWS STS(Security Token Services)**, **Amazon Cognito**, **Amazon Transcribe** and many many more!!!!!  
 
 
-What I do:
+### What I do:
+
 Implement Infrastructure as Code using CloudFormation and SAM
 
 Design microservices architectures and RESTful APIs
@@ -30,7 +31,7 @@ Work with Docker and Kubernetes for containerized deployments
 
 ### 🧰 Tech Toolbox  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,python,react,html,css,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=aws,python,react,html,css,github,vscode,docker" alt="Tech Stack" />
 </p>
 
 ---
