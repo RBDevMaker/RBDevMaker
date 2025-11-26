@@ -40,8 +40,8 @@ Work with Docker and Kubernetes for containerized deployments
 - 🎯 Always learning something new in AI ethics and model alignment.  
 - 🌍 Love blending **tech + communication + healthcare**.  
 - 🧬 Advocate for **human-centered design** in AI tools.  
-
----
+- 🤟 I’m fluent in American Sign Language (ASL) — and yes, I’m hearing! I love connecting with the Deaf community and incorporating inclusive communication wherever I can.
+ 
 ### Connect with Me
 
 📫 How to reach me hushe78@gmail.com
