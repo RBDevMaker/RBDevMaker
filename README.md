@@ -8,11 +8,10 @@
 ---
 
 ### 👀 About Me  
-- 🌐 **Passionate about** **web development**, **language translation**, and **medical innovation**.  
-- 🧠 **Skilled in** **AI model training** with **ethical guardrails** (Bedrock + beyond).  
-
-- ☁️ **Cloud and Services** I build scalable, secure, serverless applications using:: **AWS**, **Python**, **React + Node**, **Amplify**, **ECR** **HTML**, and **CSS**. My experience includes architecting solutions with **AWS Lambda**, **API Gateway**, **Amazon S3**, **DynamoDB**, **AWS SAM (Serverless Application Model)**, **CloudFormation**, **Amazon CloudWatch**, **AWS STS(Security Token Services)**, **Amazon Cognito**, **Amazon Transcribe** and many many more!!!!!  
-
+- 🌐 **Passionate about** **web development**, **language translation**, and **medical innovation**.
+- 🛠️ **I migrated the production website from Amazon Lightsail to a fully serverless architecture on AWS Amplify, with domain hosting and DNS powered by Route 53. This upgrade streamlined continuous deployment, improved performance, and enhanced overall reliability.**
+- ☁️ **Cloud and Services** I build scalable, secure, serverless applications using:: **AWS**, **Python**, **React + Node**, **Amplify**, **ECR** **HTML**, and **CSS**. My experience includes architecting solutions with **AWS Lambda**, **API Gateway**, **Amazon S3**, **DynamoDB**, **AWS SAM (Serverless Application Model)**, **CloudFormation**, **Amazon CloudWatch**, **AWS STS(Security Token Services)**, **Amazon Cognito**, **Amazon Transcribe** and many many more!!!!!
+- 🧠 **Skilled in** **AI model training** with **ethical guardrails** (Bedrock + beyond).
 
 ### What I do:
 
