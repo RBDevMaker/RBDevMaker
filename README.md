@@ -45,14 +45,22 @@ Work with Docker and Kubernetes for containerized deployments
 - 🌍 Love blending **tech + communication + healthcare**.  
 - 🧬 Advocate for **human-centered design** in AI tools.  
 - 🤟 I’m fluent in American Sign Language (ASL) — and yes, I’m hearing! I love connecting with the Deaf community and incorporating inclusive communication wherever I can.
- 
+
+## 👨‍💻 Featured Projects
+- **Customology4U** — Commerce Platform (Serverless) — https://www.customology4u.com  
+  **GitHub:** https://github.com/RBDevMaker/Customology4U
+
+- **Pets Shelter** — Adoption Management System (Serverless) — https://main.def6bew6oruvs.amplifyapp.com  
+  **GitHub:** https://github.com/RBDevMaker/pet-shelter-client
+
+- **Luxe Hair Studio** — Booking System — https://jqwtf8s3yz.us-east-1.awsapprunner.com  
+  **GitHub:** https://github.com/RBDevMaker/Appointment
+
 ### Connect with Me
 
 📫 How to reach me hushe78@gmail.com
 
 📄 Know about my experiences — rachellebriscoe.com
-
-- 👨‍💻 All of my cloud projects are available at (https://github.com/RBDevMaker/My_Portfolio_Website)
 
 - 💞️ Open to collaborating on **medical form automation** and **translator apps**.
 
