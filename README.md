@@ -47,18 +47,22 @@ Work with Docker and Kubernetes for containerized deployments
 - 🤟 I’m fluent in American Sign Language (ASL) — and yes, I’m hearing! I love connecting with the Deaf community and incorporating inclusive communication wherever I can.
 
 ## 👨‍💻 Featured Projects
-
-- **Luxe Hair Studio** — Appointment Booking System — https://jqwtf8s3yz.us-east-1.awsapprunner.com  
+- **Luxe Hair Studio** — Appointment Booking System  
+  **URL:** https://jqwtf8s3yz.us-east-1.awsapprunner.com  
   **GitHub:** https://github.com/RBDevMaker/Appointment
 
-- **Customology4U** — Commerce Platform (Serverless) — https://www.customology4u.com  
+- **Customology4U** — Commerce Platform (Serverless)  
+  **URL:** https://www.customology4u.com  
   **GitHub:** https://github.com/RBDevMaker/Customology4U
 
-- **Portfolio Website** — Professional Portfolio (Serverless) — https://www.rachellebriscoe.com  
+- **Portfolio Website** — Professional Portfolio (Serverless)  
+  **URL:** https://www.rachellebriscoe.com  
   **GitHub:** https://github.com/RBDevMaker/My_Portfolio_Website
 
-- **Pets Shelter** — Adoption Management System (Serverless) — https://main.def6bew6oruvs.amplifyapp.com  
+- **Pets Shelter** — Adoption Management System (Serverless)  
+  **URL:** https://main.def6bew6oruvs.amplifyapp.com  
   **GitHub:** https://github.com/RBDevMaker/pet-shelter-client
+
 
 
 ### Connect with Me
