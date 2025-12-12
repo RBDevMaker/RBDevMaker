@@ -56,7 +56,7 @@ Work with Docker and Kubernetes for containerized deployments
   **GitHub:** https://github.com/RBDevMaker/Customology4U
 
 - **Portfolio Website** — Professional Portfolio (Serverless)  
-  **URL:** https://www.rachellebriscoe.com  
+  **URL:** https://www.rbriscoe.com  
   **GitHub:** https://github.com/RBDevMaker/My_Portfolio_Website
 
 - **Pets Shelter** — Adoption Management System (Serverless)  
@@ -69,7 +69,7 @@ Work with Docker and Kubernetes for containerized deployments
 
 📫 How to reach me hushe78@gmail.com
 
-📄 Know about my experiences — rachellebriscoe.com
+📄 Know about my experiences — www.rbriscoe.com
 
 - 💞️ Open to collaborating on **medical form automation** and **translator apps**.
 
