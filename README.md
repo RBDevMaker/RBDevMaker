@@ -68,7 +68,6 @@ Work with Docker and Kubernetes for containerized deployments
   **GitHub:** https://github.com/RBDevMaker/new-canaan-mbc
     
 ### Connect with Me
-
 📫 How to reach me RBDevMake@yahoo.com
 
 📄 Know about my experiences — www.rbriscoe.com
