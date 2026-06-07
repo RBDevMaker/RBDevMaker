@@ -65,7 +65,6 @@ Work with Docker and Kubernetes for containerized deployments
 
 - **New Canaan Missionary Baptist Church** — A modern, full-featured church website (Serverless)  
   **URL:** https://main.d2u68ujgsq6lnt.amplifyapp.com
-  
   **GitHub:** https://github.com/RBDevMaker/new-canaan-mbc
     
 ### Connect with Me
