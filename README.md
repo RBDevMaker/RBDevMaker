@@ -73,7 +73,7 @@ Work with Docker and Kubernetes for containerized deployments
 
 📄 Know about my experiences — www.rbriscoe.com
 
-- 💞️ Open to collaborating on **medical form automation** and **translator apps**.
+- 💞️ Open to collaborating
 
 <h2 align="center">🚧 Work in Progress 🚧</h2>
 
